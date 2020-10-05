@@ -1,2 +1,2 @@
 # QrCodeAPI
-this is the frontend of the QrCodeApp : https://github.com/TMDR/QrCodeApp
+this is the backend of the QrCodeApp : https://github.com/TMDR/QrCodeApp
